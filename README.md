@@ -13,7 +13,7 @@
   - AR/VR
   - cloud
 - 📫 How to reach me 
-  - You can reach me at `https://www.linkedin.com/in/vijayasaisanagaram/`
+  - You can reach out to me at `https://www.linkedin.com/in/vijayasaisanagaram/`
 
 <!---
 sngrmvj/sngrmvj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
