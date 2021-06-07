@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sngrmvj
+- 👋 Hi, I’m Vijayasai S (@sngrmvj)
 - 👀 I’m interested in
   - Client and Server with cloud projects.
   - Machine learning also interests me.
