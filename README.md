@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vijayasai S (@sngrmvj)
 - 👀 I’m interested in
   - Client and Server with cloud projects.
-  - Machine learning also interests me.
+  - I have great interest in Machine learning.
   - AR/VR, would love to learn and work on it.
 - 🌱 I’m currently learning
   - Python
