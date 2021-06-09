@@ -3,10 +3,10 @@
   - Client and Server with cloud projects.
   - I have great interest in Machine learning.
   - AR/VR, would love to learn and work on it.
-- 🌱 I’m currently learning
+  - Message Brokers etc.
+- 🌱 I’m proficient in
   - Python
   - Angular
-  - Message Brokering etc.
 - 💞️ I’m looking to collaborate on projects based on (would love to learn technologies as well)
   - Client and Server 
   - Machine Learning
