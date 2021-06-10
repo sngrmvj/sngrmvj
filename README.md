@@ -7,6 +7,7 @@
 - 🌱 I’m proficient in
   - Python
   - Angular
+  - Docker
 - 💞️ I’m looking to collaborate on projects based on (would love to learn technologies as well)
   - Client and Server 
   - Machine Learning
