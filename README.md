@@ -13,7 +13,7 @@
   - Client and Server 
   - Machine Learning
   - AR/VR
-  - cloud
+  - cloud architecture
 - 📫 How to reach me 
   - You can reach out to me at `https://www.linkedin.com/in/vijayasaisanagaram/`
 
