@@ -14,7 +14,7 @@
   - Machine Learning
   - AR/VR
   - cloud architecture
-- 📫 How to reach me 
+- 📫 Contact
   - You can reach out to me at `https://www.linkedin.com/in/vijayasaisanagaram/`
 
 <!---
