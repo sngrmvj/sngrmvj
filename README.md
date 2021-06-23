@@ -15,7 +15,7 @@
   - AR/VR
   - cloud architecture
 - 📫 Contact
-  - You can reach out to me at `https://www.linkedin.com/in/vijayasaisanagaram/`
+  - Linked In - `https://www.linkedin.com/in/vijayasaisanagaram/`
 
 <!---
 sngrmvj/sngrmvj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
