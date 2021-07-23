@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Vijayasai S (@sngrmvj)
-- 👀 I’m interested in
+- 👀 Interests -
   - Client and Server with cloud projects.
-  - I have great interest in Machine learning.
+  - Microservices
   - AR/VR, would love to learn and work on it.
-  - Message Brokers etc.
+  - I have great interest in Machine learning.
 - 🌱 I’m proficient in
   - Python
-  - Angular
+  - JavaScript
   - Docker
   - Kubernetes
 - 💞️ I’m looking to collaborate on projects based on (would love to learn technologies as well)
