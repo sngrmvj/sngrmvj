@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijayasai S (@sngrmvj)
 - 👀 Interests -
-  - Client and Server with cloud projects.
+  - Client and Server architecture with cloud.
   - Microservices
   - AR/VR, would love to learn and work on it.
   - I have great interest in Machine learning.
