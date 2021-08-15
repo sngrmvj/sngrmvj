@@ -9,6 +9,7 @@
   - JavaScript
   - Docker
   - Kubernetes
+  - Microservices
 - 💞️ I’m looking to collaborate on projects based on (would love to learn technologies as well)
   - Client and Server 
   - Machine Learning
