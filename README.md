@@ -3,7 +3,7 @@
   - Client and Server architecture with cloud.
   - Microservices are essential part of the application.
   - AR/VR, would love to learn and work on it.
-  - I have great interest in Machine learning.
+  - Machine learning, always loved to be part of a project
 - 🌱 I’m proficient in
   - Python
   - JavaScript
