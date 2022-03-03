@@ -18,7 +18,7 @@
   - Machine Learning
   - WebVR
 - 📫 Contact
-  - Linked In - `https://www.linkedin.com/in/vijayasaisanagaram/`
+  - Linked In - > `https://www.linkedin.com/in/vijayasaisanagaram/`
 
 <!---
 sngrmvj/sngrmvj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
