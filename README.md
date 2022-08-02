@@ -3,7 +3,6 @@
 - 👀 Interests -
   - Client and Server architecture with cloud.
   - Microservices are essential part of the application.
-  - AR/VR, would love to learn and work on it.
   - Machine learning, always loved to be part of a project
 - 🌱 I’m proficient in
   - Python
